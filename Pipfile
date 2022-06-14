@@ -1,5 +1,4 @@
 [dev-packages]
-iniconfig-py = "*"
 pytest = "*"
 pytest_bdd = "*"
 selenium = "*"
