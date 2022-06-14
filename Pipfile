@@ -1,0 +1,9 @@
+[dev-packages]
+iniconfig-py = "*"
+pytest = "*"
+pytest_bdd = "*"
+selenium = "*"
+more_itertools = "*"
+
+[packages]
+webdriver-manager = "*"
