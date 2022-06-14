@@ -4,6 +4,7 @@
     * Python 3
     * pip
     * pipenv
+    * Chrome browser
 
 ## Setup
     * run pipenv sync -d
