@@ -16,15 +16,15 @@ This is a basic skeleton repo to run pytest-bdd tests on chrome browser.
     * Mac only
 
 ## Setup
-    * run 
+    * To install dependencies 
 ```shell
 pipenv sync -d
 ```
-    * to run tests run 
+    * To run tests: 
 ```shell
 pipenv run python -m pytest
 ```
-    * to run specific tag run 
+    * To run specific test tag: 
 ```shell
 pipenv run python -m pytest -m 'tag_here'
 ```
