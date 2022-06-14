@@ -5,7 +5,9 @@ This is a basic skeleton repo to run pytest-bdd tests on chrome browser.
 ## Prerequisites
     * Python 3
     * pip
-    ```curl https://bootstrap.pypa.io/get-pip.py | python```
+    ```bash
+curl https://bootstrap.pypa.io/get-pip.py | python
+```
     * pipenv
     ```pip install --user pipenv```
     * Chrome browser - https://www.google.com/intl/en_uk/chrome/
