@@ -3,6 +3,10 @@
 This is a basic skeleton repo to run pytest-bdd tests on chrome browser.
 
 ## Prerequisites
+    * Homebrew
+```shell
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```    
     * Python 3
     * pip
 ```shell
