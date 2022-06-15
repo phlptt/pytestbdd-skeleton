@@ -14,7 +14,7 @@ This is a basic skeleton repo to run pytest-bdd tests on chrome browser.
 ```
     * pipenv
 ```shell
-    pip install --user pipenv
+    brew install pipenv
 ``` 
     * Chrome browser - https://www.google.com/intl/en_uk/chrome/
     * Mac only
