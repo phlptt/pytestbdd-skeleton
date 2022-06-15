@@ -22,6 +22,9 @@ This is a basic skeleton repo to run pytest-bdd tests on chrome browser.
 ## Setup
     * To install dependencies 
 ```shell
+pipenv lock
+```
+```shell
 pipenv sync -d
 ```
     * To run tests: 
