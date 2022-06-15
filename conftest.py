@@ -1,6 +1,5 @@
 from selenium import webdriver
 import pytest
-from pytest_bdd import given
 from webdriver_manager.chrome import ChromeDriverManager
 
 
